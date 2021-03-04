@@ -1,0 +1,32 @@
+{
+  "status": 200,
+  "data": {
+    "products": {
+      "consumable": 1000,
+      "not_consumable": 500,
+      "out_of_order": 130,
+      "in_reform": 60
+    },
+    "assignment": {
+      "unaffected": 400,
+      "services": [
+        {
+          "name": "Informatique",
+          "count": 240
+        },
+        {
+          "name": "Restaurant",
+          "count": 240
+        },
+        {
+          "name": "cuisine",
+          "count": 240
+        },
+        {
+          "name": "Salle d'attende",
+          "count": 240
+        }
+      ]
+    }
+  }
+}

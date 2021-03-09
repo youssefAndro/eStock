@@ -3,22 +3,22 @@
       {
          "adType":"banner",
          "p_image":"https://www.justgothere.com/images/320x50_web_banner_example-001.jpg",
-         "p_":"https://api.saba-market.com/produit/meuble-escalade-decor-bois-chene/"
+         "p_link":"https://api.saba-market.com/produit/meuble-escalade-decor-bois-chene/"
       },
       {
          "adType":"banner",
          "p_image":"https://www.justgothere.com/images/320x50_web_banner_example-002.jpg",
-         "p_":"https://api.saba-market.com/produit/canape/"
+         "p_link":"https://api.saba-market.com/produit/canape/"
       },
       {
          "adType":"banner",
          "p_image":"https://www.justgothere.com/images/320x50_web_banner_example-003.jpg",
-         "p_":"https://api.saba-market.com/produit/1-2-bottes-fourrees-camel/"
+         "p_link":"https://api.saba-market.com/produit/1-2-bottes-fourrees-camel/"
       },
       {
          "adType":"banner",
          "p_image":"https://www.justgothere.com/images/320x50_web_banner_example-004.jpg",
-         "p_":"https://api.saba-market.com/produit/3-in-1-cleansing-gel-system/"
+         "p_link":"https://api.saba-market.com/produit/3-in-1-cleansing-gel-system/"
       }
    ]
 }

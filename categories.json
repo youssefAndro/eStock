@@ -1,0 +1,27 @@
+{
+   "status":200,
+   "data":{
+      "categories":[
+         {
+            "id":155,
+            "name":"Fourniture de Bureau",
+            "count":140
+         },
+         {
+            "id":156,
+            "name":"Fourniture d'entretien",
+            "count":240
+         },
+         {
+            "id":158,
+            "name":"IMPRIMEES",
+            "count":200
+         },
+         {
+            "id":159,
+            "name":"Midico-technique",
+            "count":15
+         }
+      ]
+   }
+}

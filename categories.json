@@ -10,7 +10,19 @@
                {
                   "id":155,
                   "name":"Fourniture de Bureau",
-                  "count":140
+                  "count":140,
+                  "sub_categories":[
+                     {
+                        "id":155,
+                        "name":"Fourniture de Bureau",
+                        "count":140
+                     },
+                     {
+                        "id":156,
+                        "name":"Fourniture d'entretien",
+                        "count":240
+                     }
+                  ]
                },
                {
                   "id":156,

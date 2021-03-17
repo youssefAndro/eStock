@@ -7,6 +7,7 @@
             "name":"Calculatrice scientifique",
             "sku":"CA083SN04FGPDNAFAMZ",
             "quantity":50,
+"threshold" : 10,
             "measure":"unité",
             "category":{
                "id":156,
@@ -21,11 +22,32 @@
                }
             }
          },
-{
+         {
             "id":155,
-            "name":"Calculatrice scientifique",
-            "sku":"CA083SN04FGPDNAFAMZ",
-            "quantity":50,
+            "name":"Stylo bleu",
+            "sku":"4FGPFAMZDNACA083SN0",
+            "quantity":250,
+"threshold" : 100,
+            "measure":"piece",
+            "category":{
+               "id":156,
+               "name":"Fourniture de bureau"
+            },
+            "model":{
+               "id":43,
+               "name":"FX 991 ES",
+               "marque":{
+                  "id":155,
+                  "name":"casio"
+               }
+            }
+         },
+         {
+            "id":155,
+            "name":"TONER 85 A",
+            "sku":"CN04FGAFAM0AZ83SPDN",
+            "quantity":10,
+"threshold" : 20,
             "measure":"unité",
             "category":{
                "id":156,
@@ -40,31 +62,13 @@
                }
             }
          },
-{
+         {
             "id":155,
-            "name":"Calculatrice scientifique",
+            "name":"Encre liquide",
             "sku":"CA083SN04FGPDNAFAMZ",
             "quantity":50,
-            "measure":"unité",
-            "category":{
-               "id":156,
-               "name":"Fourniture d'entretien"
-            },
-            "model":{
-               "id":43,
-               "name":"FX 991 ES",
-               "marque":{
-                  "id":155,
-                  "name":"casio"
-               }
-            }
-         },
-{
-            "id":155,
-            "name":"Calculatrice scientifique",
-            "sku":"CA083SN04FGPDNAFAMZ",
-            "quantity":50,
-            "measure":"unité",
+"threshold" : 200,
+            "measure":"litre",
             "category":{
                "id":156,
                "name":"Fourniture d'entretien"

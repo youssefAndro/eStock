@@ -7,8 +7,9 @@
             "name":"Calculatrice scientifique",
             "sku":"CA083SN04FGPDNAFAMZ",
             "quantity":50,
-"threshold" : 10,
+            "threshold":10,
             "measure":"unité",
+            "isConsumable":true,
             "category":{
                "id":156,
                "name":"Fourniture d'entretien"
@@ -27,8 +28,9 @@
             "name":"Stylo bleu",
             "sku":"4FGPFAMZDNACA083SN0",
             "quantity":250,
-"threshold" : 100,
+            "threshold":100,
             "measure":"piece",
+            "isConsumable":false,
             "category":{
                "id":156,
                "name":"Fourniture de bureau"
@@ -47,8 +49,9 @@
             "name":"TONER 85 A",
             "sku":"CN04FGAFAM0AZ83SPDN",
             "quantity":10,
-"threshold" : 20,
+            "threshold":20,
             "measure":"unité",
+            "isConsumable":true,
             "category":{
                "id":156,
                "name":"Fourniture d'entretien"
@@ -67,8 +70,9 @@
             "name":"Encre liquide",
             "sku":"CA083SN04FGPDNAFAMZ",
             "quantity":50,
-"threshold" : 200,
+            "threshold":200,
             "measure":"litre",
+            "isConsumable":false,
             "category":{
                "id":156,
                "name":"Fourniture d'entretien"

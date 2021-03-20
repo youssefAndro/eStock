@@ -6,9 +6,9 @@
          "name":"Calculatrice scientifique",
          "sku":"CA083SN04FGPDNAFAMZ",
          "quantity":50,
+         "g_quantity":100,
          "threshold":10,
          "measure":"unité",
-         "isConsumable":true,
          "category":{
             "id":156,
             "name":"Fourniture d'entretien"
@@ -20,6 +20,16 @@
                "id":155,
                "name":"casio"
             }
+         },
+         "isConsumable":false,
+         "isMaster":true,
+         "references":{
+            "count":200,
+            "count_in":180,
+            "count_out":20
+         },
+         "entree":{
+            "count":10
          }
       }
    }

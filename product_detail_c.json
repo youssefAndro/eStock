@@ -1,0 +1,35 @@
+{
+   "status":200,
+   "data":{
+      "product":{
+         "id":155,
+         "name":"Calculatrice scientifique",
+         "sku":"CA083SN04FGPDNAFAMZ",
+         "quantity":50,
+         "g_quantity":100,
+         "threshold":10,
+         "measure":"unité",
+         "category":{
+            "id":156,
+            "name":"Fourniture d'entretien"
+         },
+         "model":{
+            "id":43,
+            "name":"FX 991 ES",
+            "marque":{
+               "id":155,
+               "name":"casio"
+            }
+         },
+         "isConsumable":true,
+         "isMaster":true,
+         "entree":{
+            "count":10
+         }
+         "sortie":{
+            "count":2
+         }
+        
+      }
+   }
+}

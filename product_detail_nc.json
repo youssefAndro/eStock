@@ -26,16 +26,16 @@
          "references":{
             
          },
-         "entree":{
+         "entry":{
             
          },
-         "sortie":{
+         "output":{
             "id":100,
             "ref":"ref 100",
             "date":122131313131,
             "price":20.5
          },
-         "mouvement":{
+         "movement":{
             "count":2
          }
       }

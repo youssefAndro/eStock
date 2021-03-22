@@ -23,10 +23,10 @@
          },
          "isConsumable":true,
          "isMaster":true,
-         "entree":{
+         "entry":{
             "count":10
          },
-         "sortie":{
+         "output":{
             "count":2
          }
         

@@ -1,7 +1,6 @@
 {
    "status":200,
    "data":{
-      "product":{
          "id":155,
          "name":"Calculatrice scientifique",
          "sku":"CA083SN04FGPDNAFAMZ",
@@ -31,5 +30,4 @@
          }
         
       }
-   }
 }

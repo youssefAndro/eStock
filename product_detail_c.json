@@ -1,33 +1,32 @@
 {
    "status":200,
    "data":{
-         "id":155,
-         "name":"Calculatrice scientifique",
-         "sku":"CA083SN04FGPDNAFAMZ",
-         "quantity":50,
-         "g_quantity":100,
-         "threshold":10,
-         "measure":"unité",
-         "category":{
-            "id":156,
-            "name":"Fourniture d'entretien"
-         },
-         "model":{
-            "id":43,
-            "name":"FX 991 ES",
-            "marque":{
-               "id":155,
-               "name":"casio"
-            }
-         },
-         "isConsumable":true,
-         "isMaster":true,
-         "entry":{
-            "count":10
-         },
-         "output":{
-            "count":2
+      "id":155,
+      "name":"Calculatrice scientifique",
+      "sku":"CA083SN04FGPDNAFAMZ",
+      "quantity":50,
+      "g_quantity":100,
+      "threshold":10,
+      "measure":"unité",
+      "category":{
+         "id":156,
+         "name":"Fourniture d'entretien"
+      },
+      "model":{
+         "id":43,
+         "name":"FX 991 ES",
+         "marque":{
+            "id":155,
+            "name":"casio"
          }
-        
+      },
+      "isConsumable":true,
+      "isMaster":true,
+      "entry":{
+         "count":10
+      },
+      "output":{
+         "count":2
       }
+   }
 }

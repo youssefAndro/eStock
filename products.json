@@ -10,6 +10,7 @@
             "threshold":10,
             "measure":"unité",
             "isConsumable":true,
+            "isMaster":true,
             "category":{
                "id":156,
                "name":"Fourniture d'entretien"
@@ -31,6 +32,7 @@
             "threshold":100,
             "measure":"piece",
             "isConsumable":false,
+            "isMaster":true,
             "category":{
                "id":156,
                "name":"Fourniture de bureau"
@@ -73,6 +75,7 @@
             "threshold":200,
             "measure":"litre",
             "isConsumable":false,
+            "isMaster":false,
             "category":{
                "id":156,
                "name":"Fourniture d'entretien"

@@ -1,0 +1,62 @@
+{
+   "status":200,
+   "data":{
+      "categories":[
+         {
+            "id":156,
+            "name":"Fourniture d'entretien"
+         },
+         {
+            "id":156,
+            "name":"Fourniture de bureau"
+         }
+      ],
+      "brands":[
+         {
+            "id":155,
+            "name":"casio",
+            "models":[
+               {
+                  "id":43,
+                  "name":"FX 991 ES"
+               },
+               {
+                  "id":43,
+                  "name":"FX 900 EM"
+               }
+            ]
+         }
+      ],
+      "services":[
+         {
+            "id":155,
+            "name":"Stock",
+            "manager":{
+               "id":155,
+               "name":"youssef"
+            }
+         }
+      ],
+      "suppliers":[
+         {
+            "id":155,
+            "name":"Vtech",
+            "city":"Paris"
+         }
+      ],
+      "units":[
+         {
+            "id":155,
+            "name":"boite"
+         },
+         {
+            "id":155,
+            "name":"litre"
+         },
+         {
+            "id":155,
+            "name":"Kg"
+         }
+      ]
+   }
+}

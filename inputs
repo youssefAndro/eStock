@@ -8,6 +8,11 @@
             "date":1616756430,
             "quantity":100,
             "price":20.5,
+            "supplier": {
+               "id":155,
+               "name":"Vtech",
+               "city":"Paris"
+            },
             "product":{
                "id":155,
                "name":"Calculatrice scientifique",

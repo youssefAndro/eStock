@@ -1,0 +1,41 @@
+{
+   "status":200,
+   "data":{
+      "products":[
+         {
+            "id":155,
+            "name":"Encre liquide",
+            "sku":"CA083SN04FGPDNAFAMZ",
+            "isConsumable":false,
+            "isMaster":false,
+            "category":{
+               "id":156,
+               "name":"Fourniture d'entretien"
+            },
+            "model":{
+               "id":43,
+               "name":"FX 991 ES",
+               "marque":{
+                  "id":155,
+                  "name":"casio"
+               }
+            },
+            "service":{
+               "id":155,
+               "name":"Stock"
+            },
+            "isAffected":true,
+            "output":{
+               "id":100,
+               "ref":"ref 100",
+               "date":122131313131,
+               "price":20.5,
+               "service":{
+                  "id":155,
+                  "name":"Informatique"
+               }
+            }
+         }
+      ]
+   }
+}

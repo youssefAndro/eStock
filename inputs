@@ -5,7 +5,7 @@
          {
             "id":1290,
             "ref":"ref 100",
-            "date":"1616845198",
+            "date":1616845198,
             "quantity":100,
             "price":20.5,
             "supplier": {
